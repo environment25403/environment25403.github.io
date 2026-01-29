@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>مؤسسة بيئة وسلام</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Tahoma, sans-serif;
+            background-color: #f6f8f7;
+            color: #1f2d2b;
+            line-height: 1.8;
+        }
+        header {
+            background-color: #2f8f5b;
+            color: white;
+            padding: 50px 20px;
+            text-align: center;
+        }
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+        h1, h2 {
+            color: #2f8f5b;
+        }
+        ul {
+            padding-right: 20px;
+        }
+        footer {
+            background-color: #1f2d2b;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>مؤسسة بيئة وسلام</h1>
+    <p>نحمي البيئة ونبني السلام</p>
+</header>
+
+<section>
+    <h2>من نحن</h2>
+    <p>
+        مؤسسة بيئة وسلام هي مؤسسة سورية غير ربحية، تأسست كفريق تطوعي في
+        1 تشرين الأول 2023، وأُشهرت مؤقتًا في 7 شباط 2025،
+        وحصلت على الإشهار الدائم في 6 تشرين الثاني 2025.
+    </p>
+    <p>
+        <strong>المقر الرئيسي:</strong> سوريا – حلب – عفرين
+    </p>
+</section>
+
+<section>
+    <h2>مجالات عملنا</h2>
+    <ul>
+        <li>حماية البيئة والتغير المناخي</li>
+        <li>الزراعة وسبل العيش المستدامة</li>
+        <li>بناء السلام والوفاق المجتمعي</li>
+        <li>التمكين الاقتصادي للنساء والشباب</li>
+        <li>الدعم القانوني ونشر ثقافة المواطنة</li>
+    </ul>
+</section>
+
+<section>
+    <h2>رؤيتنا</h2>
+    <p>
+        مجتمعات سورية قادرة على حماية مواردها الطبيعية،
+        وتعزيز التماسك المجتمعي، وبناء سلام مستدام قائم على العدالة والمشاركة.
+    </p>
+</section>
+
+<footer>
+    <p>© مؤسسة بيئة وسلام – Environment & Peace Foundation</p>
+</footer>
+
+</body>
+</html>
